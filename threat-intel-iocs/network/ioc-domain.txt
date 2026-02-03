@@ -1,2 +1,2 @@
-api]skycloudcenter.com
+api.skycloudcenter.com
 api.wiresguard.com
