@@ -3,3 +3,10 @@ api.wiresguard.com
 cdncheck.it.com
 safe-dns.it.com
 self-dns.it.com
+bulletmailer.net
+darkgptprivate.com
+moltbot.ai
+moltbot.you
+clawdbot.ai
+getintwopc.site
+openclaw.ai
