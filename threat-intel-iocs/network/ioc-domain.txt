@@ -3,6 +3,7 @@ api.wiresguard.com
 cdncheck.it.com
 safe-dns.it.com
 self-dns.it.com
+notepad-plus-plus.org
 moltbot.ai
 clawdbot.ai
 api.clawdbot.ai
