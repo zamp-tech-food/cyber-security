@@ -1,2 +1,5 @@
 api.skycloudcenter.com
 api.wiresguard.com
+cdncheck.it.com
+safe-dns.it.com
+self-dns.it.com
