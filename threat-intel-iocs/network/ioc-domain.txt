@@ -20,3 +20,5 @@ bulletmailer.net
 molt.bot
 openclaw.ai
 moltbot.you
+productivity-tools.ai
+inst.productivity-tools.ai
